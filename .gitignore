@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 数据库文件（含敏感数据）
+*.db
+*.sqlite3
+
+# 环境配置（含密钥）
+.env
+*.env
+
+# 日志
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
